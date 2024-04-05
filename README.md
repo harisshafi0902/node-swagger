@@ -3,7 +3,7 @@
 Welcome to my JavaScript SWAGGER.
 
 ![JavaScript SWAGGER](/Images/swagger1.png)
-![JavaScript SWAGGER](/Images/swagger1.png)
+![JavaScript SWAGGER](/Images/swagger2.png)
 
 
 ## Run Locally
